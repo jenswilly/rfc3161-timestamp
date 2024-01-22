@@ -1,6 +1,6 @@
 {
   "name": "@jenswilly/rfc3161-timestamp",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "RFC3161 trusted timestamp utility.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
