@@ -1,0 +1,17 @@
+{
+	"compilerOptions": {
+		"target": "esnext",
+		"module": "commonjs",
+		"lib": ["es2019"],
+		"rootDir": ".",
+		"baseUrl": ".",
+		"declaration": true,
+		"outDir": "./lib",
+		"allowJs": true,
+		"strict": true,
+		"moduleResolution": "node",
+		"esModuleInterop": true,  
+	},
+	"include": ["./src/**/*"],
+	"exclude": ["node_modules", "**/__tests__/*"]
+}

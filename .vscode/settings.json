@@ -1,0 +1,12 @@
+{
+	"java.compile.nullAnalysis.mode": "disabled",
+	"launch": {
+		"configurations": [],
+		"compounds": []
+	},
+	"editor.formatOnSave": true,
+	// enable per-language (here: Prettier as formatter)
+	"[javascript, typscript, typescriptreact]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	}
+}
