@@ -1,6 +1,6 @@
 {
   "name": "@jenswilly/rfc3161-timestamp",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "RFC3161 trusted timestamp utility.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -8,7 +8,7 @@
     "lib/**/*"
   ],
   "publishConfig": {
-	"@jenswilly:registry": "https://npm.pkg.github.com"
+    "@jenswilly:registry": "https://npm.pkg.github.com"
   },
   "repository": {
     "type": "git",
